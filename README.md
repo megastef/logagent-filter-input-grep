@@ -35,7 +35,7 @@ output:
 
 The example above filters all log files with the content "info" or "error", and drops all lines with the keyword "test". 
 
-Run loogagent: 
+Run logagent: 
 ```
 logagent --config myconfig.yml 
 ```
