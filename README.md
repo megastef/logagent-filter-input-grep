@@ -38,4 +38,4 @@ The example above filters all log files with the content "info" or "error", and 
 Run loogagent: 
 ```
 logagent --config myconfig.yml 
-`` 
+```
