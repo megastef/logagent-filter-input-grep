@@ -1,6 +1,6 @@
 {
   "name": "logagent-filter-input-grep",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Apply regex to filter raw input from @sematext/logagent",
   "main": "index.js",
   "scripts": {
