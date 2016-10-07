@@ -1,0 +1,27 @@
+{
+  "name": "logagent-filter-input-grep",
+  "version": "1.0.0",
+  "description": "Apply regex to filter raw input from @sematext/logagent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megastef/logagent-filter-input-grep.git"
+  },
+  "keywords": [
+    "log",
+    "management",
+    "logagent",
+    "filter",
+    "grep",
+    "sematext"
+  ],
+  "author": "Stefan Thies",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/megastef/logagent-filter-input-grep/issues"
+  },
+  "homepage": "https://github.com/megastef/logagent-filter-input-grep#readme"
+}
